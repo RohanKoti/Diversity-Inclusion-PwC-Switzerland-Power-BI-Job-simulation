@@ -1,4 +1,4 @@
-6 key insights from the Power BI report you provided:
+**6 key insights from the Power BI report you provided:**
 
 1. Employee Demographics: Out of 500 total employees, there are 295 male employees (59%) and 205 female employees (41%).
 2. Hiring Trends: In FY20, 59% of the hires were male, while 41% were female. In FY21, the gender distribution was more balanced across job types, with a slight male majority in senior positions.
@@ -8,7 +8,7 @@
 6. Employee Age Distribution: The majority of employees are in the 20-29 age group (223 employees), followed by the 30-39 age group (174 employees). There are significantly fewer employees in older age brackets.
 
 
-To achieve better results in future reporting and diversity analysis, here are 5 improvement suggestions:
+**To achieve better results in future reporting and diversity analysis, here are 5 improvement suggestions:**
 
 1.	Balanced Hiring Across Job Roles: The hiring data shows gender imbalances at senior levels, with more males in higher roles. Focus on increasing female representation in leadership and managerial positions through targeted recruitment and development programs.
 2.	Enhanced Performance Metrics: The overall performance rating has slightly decreased between FY19 and FY20. Implementing performance improvement initiatives and regular feedback mechanisms could help boost these ratings and ensure employees have the resources to perform optimally.
