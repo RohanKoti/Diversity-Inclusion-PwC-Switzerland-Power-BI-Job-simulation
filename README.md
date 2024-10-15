@@ -15,3 +15,6 @@
 3.	Age Diversity Strategy: The employee age distribution is skewed towards younger age groups. To create a more balanced workforce, focus on hiring across all age groups and offering development programs to attract and retain experienced, older professionals.
 4.	Departmental Diversity: Departments like Strategy and Finance show limited new hires compared to others. Increasing focus on hiring in these departments could bring fresh perspectives and potentially improve departmental performance and innovation.
 5.	Promotion Equality: There’s an observable gender disparity in promotions, especially in managerial roles. Establishing clear, equitable promotion criteria and mentorship programs can help ensure that both genders have equal opportunities for career advancement.
+
+![Dasboard 1](https://github.com/RohanKoti/Diversity-Inclusion-PwC-Switzerland-Power-BI-Job-simulation/blob/main/PwC%20Diversity%20and%20Inclusion%20-1.PNG?raw=true)
+![Dashboard 2](https://github.com/RohanKoti/Diversity-Inclusion-PwC-Switzerland-Power-BI-Job-simulation/blob/main/PwC%20Diversity%20and%20Inclusion%20-2.PNG?raw=true)
