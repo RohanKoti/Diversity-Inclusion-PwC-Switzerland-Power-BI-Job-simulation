@@ -1,11 +1,11 @@
 6 key insights from the Power BI report you provided:
 
-1.	Employee Demographics: Out of 500 total employees, there are 295 male employees (59%) and 205 female employees (41%).
+1. Employee Demographics: Out of 500 total employees, there are 295 male employees (59%) and 205 female employees (41%).
 2. Hiring Trends: In FY20, 59% of the hires were male, while 41% were female. In FY21, the gender distribution was more balanced across job types, with a slight male majority in senior positions.
-3.	Performance Ratings: The average performance score for FY19 was 2.57, which decreased slightly to 2.41 in FY20.
-4.	Hiring by Department: The Operations and Sales & Marketing departments saw the highest number of new hires, with 103 and 109 respectively, while departments like Strategy and Finance had the fewest hires.
-5.	Promotions by Job Role: Most promotions in FY21 occurred in the Manager and Senior Manager roles, with female employees generally receiving fewer promotions than their male counterparts across roles.
-6.	Employee Age Distribution: The majority of employees are in the 20-29 age group (223 employees), followed by the 30-39 age group (174 employees). There are significantly fewer employees in older age brackets.
+3. Performance Ratings: The average performance score for FY19 was 2.57, which decreased slightly to 2.41 in FY20.
+4. Hiring by Department: The Operations and Sales & Marketing departments saw the highest number of new hires, with 103 and 109 respectively, while departments like Strategy and Finance had the fewest hires.
+5. Promotions by Job Role: Most promotions in FY21 occurred in the Manager and Senior Manager roles, with female employees generally receiving fewer promotions than their male counterparts across roles.
+6. Employee Age Distribution: The majority of employees are in the 20-29 age group (223 employees), followed by the 30-39 age group (174 employees). There are significantly fewer employees in older age brackets.
 
 
 To achieve better results in future reporting and diversity analysis, here are 5 improvement suggestions:
